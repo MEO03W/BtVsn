@@ -2,8 +2,9 @@
 
 Graphical audio reactive vga interface
 
-!!!Disclaimer - there is no guarantee this will work flawlessly, take this more as an entry point to
-                further developments and funny creative video thingieees
+!!!Disclaimer
+there is no guarantee this will work flawlessly, take this more as an entry point to
+further developments and funny creative video thingieees
 
 # Hardware
 
