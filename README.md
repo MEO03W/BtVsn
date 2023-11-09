@@ -14,11 +14,10 @@ ESP32 MicroController
 Multiplexer 8 Channels 
 ![IMG_1794](https://github.com/MEO03W/BtVsn/assets/58468907/a1874c08-2078-443f-98c0-00ea4966939a)
 
-
-Potentiometer 
-Audio Aux In 
-VGA Shield 
-LCD Display 
+- Potentiometer,
+- Audio Aux In
+- VGA Shield
+- LCD Display 
 
 # Libraries
 And thanks to ....
