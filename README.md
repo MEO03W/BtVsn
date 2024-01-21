@@ -1,7 +1,7 @@
 # BtVsn
 
 Graphical audio reactive vga interface
-[![Watch the video]((https://player.vimeo.com/video/904929664?h=1f6e767beb))]
+[Watch My Video](https://vimeo.com/904929664?share=copy)
 
 !!!Disclaimer
 there is no guarantee this will work flawlessly, take this more as an entry point to
